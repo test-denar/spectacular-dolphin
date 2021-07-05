@@ -73,7 +73,7 @@ sections:
             icon_position: right
         image: images/logo-1.svg
         image_alt: Feature 1 illustration
-        media_position: right
+        media_position: top
         media_width: sixty
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing'
