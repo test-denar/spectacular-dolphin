@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alyvia.'
+    title: 'Hi, I’m Alyvia!!!'
     subtitle: I will handle your
     actions:
       - label: Contact Me
